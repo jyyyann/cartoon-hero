@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #F1E755;
+	text-align: center;
+}
+
+header h1 {
+	color: white;
+}
