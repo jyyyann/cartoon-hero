@@ -3,10 +3,18 @@ body{
 }
 
 header{
-	background-color: #F1E755;
+	background-color: #FFD523 ;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 header h1 {
 	color: white;
+	font-family: Bradley Hand ITC
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 20px solid #B3A879 ;
 }
